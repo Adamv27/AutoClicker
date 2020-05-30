@@ -1,5 +1,6 @@
 # Auto Clicker
 
+![](https://raw.githubusercontent.com/Adamv27/AutoClicker/master/images/autoclicker.png)
 An auto clicker that can be used in many games. 
 Supports customization delay time and key binds
 
